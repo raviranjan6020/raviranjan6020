@@ -3,6 +3,11 @@
   <img src="./assets/header-light.svg" alt="Ravi Ranjan. Cloud / Platform Engineer building Kubernetes platforms, cloud infrastructure and GPU systems. CKA, Kubernetes contributor, Open Cluster Management (CNCF)." width="100%" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <img src="./assets/stack-light.svg" alt="Tech stack. Languages: Go, Python, Bash. Kubernetes: Kubernetes, OpenShift / OKD, KubeVirt, K3s, Helm. Multi-cluster: Open Cluster Management, Rancher, RKE2. Delivery and automation: Argo CD, Tekton, GitHub Actions, Terraform, Ansible, Kubespray. GPU: NVIDIA GPU Operator, DRA, KAI Scheduler, GPU passthrough, DCGM. Cloud: AWS, GCP. Security and access: OpenBao, KMS, OIDC, Teleport. Observability: Prometheus, Grafana, Loki, VictoriaMetrics, OpenTelemetry." width="100%" />
+</picture>
+
 ### Selected contributions
 
 | Project | Contribution | Status |
@@ -22,11 +27,6 @@
 | [**FitJournal**](https://www.fitjournal.in) | AI fitness journal that answers "is my plan working?" Next.js, Postgres, OpenAI, Docker, Kubernetes. [Code](https://github.com/raviranjan6020/fitjournal) |
 | [**ai-skills**](https://github.com/raviranjan6020/ai-skills) | Rules, skills and hooks for coding agents (Claude Code, Codex, Kiro, Cursor) from one source. |
 | [**Rate Warden**](https://github.com/raviranjan6020/rate-limiter) | gRPC rate-limiting service backed by Redis, deployable with Helm. |
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
-  <img src="./assets/stack-light.svg" alt="Tech stack. Languages: Go, Python, Bash. Kubernetes: Kubernetes, OpenShift / OKD, KubeVirt, K3s, Helm. Multi-cluster: Open Cluster Management, Rancher, RKE2. Delivery and automation: Argo CD, Tekton, GitHub Actions, Terraform, Ansible, Kubespray. GPU: NVIDIA GPU Operator, DRA, KAI Scheduler, GPU passthrough, DCGM. Cloud: AWS, GCP. Security and access: OpenBao, KMS, OIDC, Teleport. Observability: Prometheus, Grafana, Loki, VictoriaMetrics, OpenTelemetry." width="100%" />
-</picture>
 
 <br>
 
