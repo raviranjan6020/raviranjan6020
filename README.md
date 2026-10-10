@@ -23,9 +23,10 @@
 | [**ai-skills**](https://github.com/raviranjan6020/ai-skills) | Rules, skills and hooks for coding agents (Claude Code, Codex, Kiro, Cursor) from one source. |
 | [**Rate Warden**](https://github.com/raviranjan6020/rate-limiter) | gRPC rate-limiting service backed by Redis, deployable with Helm. |
 
-### Stack
-
-Go · Python · Kubernetes · KubeVirt · OpenShift · Helm · Argo CD · Tekton · Terraform · AWS · Prometheus · Grafana · NVIDIA GPU Operator · OpenBao
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <img src="./assets/stack-light.svg" alt="Tech stack. Languages: Go, Python, Bash. Kubernetes: Kubernetes, KubeVirt, OpenShift, RKE2, Rancher, K3s, Helm. Multi-cluster and GitOps: Open Cluster Management, Argo CD, Kubespray, Terraform. GPU: NVIDIA GPU Operator, DRA, KAI Scheduler, GPU passthrough, DCGM. Cloud and CI/CD: AWS, GCP, GitHub Actions, Tekton. Security and access: OpenBao, KMS, OIDC, Teleport. Observability: Prometheus, Grafana, Loki, VictoriaMetrics, OpenTelemetry." width="100%" />
+</picture>
 
 <br>
 
