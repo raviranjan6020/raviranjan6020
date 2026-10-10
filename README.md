@@ -1,10 +1,9 @@
-### Hi, I'm Ravi 👋
+### Hi, I'm Ravi Ranjan 👋
 
 - 💼 Software Engineer at Nava (formerly Kluisz.ai), working on Kubernetes platforms, KubeVirt VMs, GPU infrastructure and secrets management (OpenBao).
 - ☸️ Contributing to Kubernetes and the CNCF [Open Cluster Management](https://open-cluster-management.io) project.
 - 🎓 [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/verify/), ID `LF-z7d251rgm4`. B.Tech, IIT Palakkad.
 - 💬 Ask me about Kubernetes, multi-cluster, GitOps, GPUs on Kubernetes and Go.
-- 📫 [LinkedIn](https://www.linkedin.com/in/raviranjan6020) · raviranjan6020@gmail.com
 
 ### Open source
 
