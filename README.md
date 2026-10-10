@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
   <img src="./assets/header-light.svg" alt="Ravi Ranjan. Cloud / Platform Engineer building Kubernetes platforms, cloud infrastructure and GPU systems. CKA, Kubernetes contributor, Open Cluster Management (CNCF)." width="100%" />
 </picture>
-
+<br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
   <img src="./assets/stack-light.svg" alt="Tech stack. Languages: Go, Python, Bash. Kubernetes: Kubernetes, OpenShift / OKD, KubeVirt, K3s, Helm. Multi-cluster: Open Cluster Management, Rancher, RKE2. Delivery and automation: Argo CD, Tekton, GitHub Actions, Terraform, Ansible, Kubespray. GPU: NVIDIA GPU Operator, DRA, KAI Scheduler, GPU passthrough, DCGM. Cloud: AWS, GCP. Security and access: OpenBao, KMS, OIDC, Teleport. Observability: Prometheus, Grafana, Loki, VictoriaMetrics, OpenTelemetry." width="100%" />
