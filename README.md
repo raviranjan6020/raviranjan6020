@@ -8,6 +8,7 @@
   <img src="./assets/stack-light.svg" alt="Tech stack. Languages: Go, Python, Bash. Kubernetes: Kubernetes, OpenShift / OKD, KubeVirt, K3s, Helm. Multi-cluster: Open Cluster Management, Rancher, RKE2. Delivery and automation: Argo CD, Tekton, GitHub Actions, Terraform, Ansible, Kubespray. GPU: NVIDIA GPU Operator, DRA, KAI Scheduler, GPU passthrough, DCGM. Cloud: AWS, GCP. Security and access: OpenBao, KMS, OIDC, Teleport. Observability: Prometheus, Grafana, Loki, VictoriaMetrics, OpenTelemetry." width="100%" />
 </picture>
 
+<!-- Hidden until the in-review PRs merge.
 ### Selected contributions
 
 | Project | Contribution | Status |
@@ -19,6 +20,7 @@
 | [argocd-pull-integration](https://github.com/open-cluster-management-io/argocd-pull-integration) | Separate CRDs chart so the addon installs on any Helm version · [#251](https://github.com/open-cluster-management-io/argocd-pull-integration/pull/251) | In review |
 | [clusteradm](https://github.com/open-cluster-management-io/clusteradm) | Install the CRDs chart before the addon · [#589](https://github.com/open-cluster-management-io/clusteradm/pull/589) | In review |
 | [ocm](https://github.com/open-cluster-management-io/ocm) | Upgrade and downgrade CI test for the CNCF incubation review · [#1732](https://github.com/open-cluster-management-io/ocm/issues/1732) | In progress |
+-->
 
 ### Projects
 
