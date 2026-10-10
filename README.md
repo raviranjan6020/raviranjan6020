@@ -1,31 +1,32 @@
-### Hi, I'm Ravi Ranjan 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <img src="./assets/header-light.svg" alt="Ravi Ranjan. Cloud / Platform Engineer building Kubernetes platforms, cloud infrastructure and GPU systems. CKA, Kubernetes contributor, Open Cluster Management (CNCF)." width="100%" />
+</picture>
 
-- 💼 Software Engineer at Nava (formerly Kluisz.ai), working on Kubernetes platforms, KubeVirt VMs, GPU infrastructure and secrets management (OpenBao).
-- ☸️ Contributing to Kubernetes and the CNCF [Open Cluster Management](https://open-cluster-management.io) project.
-- 🎓 [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/verify/), ID `LF-z7d251rgm4`. B.Tech, IIT Palakkad.
-- 💬 Ask me about Kubernetes, multi-cluster, GitOps, GPUs on Kubernetes and Go.
+### Selected contributions
 
-### Open source
-
-**Merged**
-- [open-cluster-management-io/ocm#1703](https://github.com/open-cluster-management-io/ocm/pull/1703) work: report `NotAsExpected` instead of `PlacementDecisionEmpty` when applies fail
-- [kubernetes-sigs/cluster-inventory-api#87](https://github.com/kubernetes-sigs/cluster-inventory-api/pull/87) credentialplugin: add tests for Run's exit paths
-
-**In review**
-- [kubernetes/kubernetes#141465](https://github.com/kubernetes/kubernetes/pull/141465) kubelet: add unit tests for secret and configmap managers
-- [kubernetes/kubernetes#141446](https://github.com/kubernetes/kubernetes/pull/141446) kubelet/cm: add unit tests for ResourceConfig CPU and memory helpers
-- [open-cluster-management-io/argocd-pull-integration#251](https://github.com/open-cluster-management-io/argocd-pull-integration/pull/251) separate CRDs chart so the addon installs on any Helm version
-- [open-cluster-management-io/clusteradm#589](https://github.com/open-cluster-management-io/clusteradm/pull/589) install the CRDs chart before the addon
-
-**Working on**
-- [open-cluster-management-io/ocm#1732](https://github.com/open-cluster-management-io/ocm/issues/1732) upgrade/downgrade CI test, from the CNCF incubation review
+| Project | Contribution | Status |
+|---|---|---|
+| [ocm](https://github.com/open-cluster-management-io/ocm) | Report apply failures as `NotAsExpected` in ManifestWorkReplicaSet · [#1703](https://github.com/open-cluster-management-io/ocm/pull/1703) | Merged |
+| [cluster-inventory-api](https://github.com/kubernetes-sigs/cluster-inventory-api) | Tests for the credential plugin's exit paths · [#87](https://github.com/kubernetes-sigs/cluster-inventory-api/pull/87) | Merged |
+| [kubernetes](https://github.com/kubernetes/kubernetes) | kubelet unit tests for secret and configmap managers · [#141465](https://github.com/kubernetes/kubernetes/pull/141465) | In review |
+| [kubernetes](https://github.com/kubernetes/kubernetes) | kubelet unit tests for ResourceConfig CPU and memory helpers · [#141446](https://github.com/kubernetes/kubernetes/pull/141446) | In review |
+| [argocd-pull-integration](https://github.com/open-cluster-management-io/argocd-pull-integration) | Separate CRDs chart so the addon installs on any Helm version · [#251](https://github.com/open-cluster-management-io/argocd-pull-integration/pull/251) | In review |
+| [clusteradm](https://github.com/open-cluster-management-io/clusteradm) | Install the CRDs chart before the addon · [#589](https://github.com/open-cluster-management-io/clusteradm/pull/589) | In review |
+| [ocm](https://github.com/open-cluster-management-io/ocm) | Upgrade and downgrade CI test for the CNCF incubation review · [#1732](https://github.com/open-cluster-management-io/ocm/issues/1732) | In progress |
 
 ### Projects
 
-- [**FitJournal**](https://www.fitjournal.in) ([repo](https://github.com/raviranjan6020/fitjournal)): live AI fitness journal that answers "is my plan working?". Next.js, Postgres, OpenAI, Docker and Kubernetes manifests.
-- [**ai-skills**](https://github.com/raviranjan6020/ai-skills): rules, skills and hooks for coding agents (Claude Code, Codex, Kiro, Cursor) from one source.
-- [**Rate Warden**](https://github.com/raviranjan6020/rate-limiter): gRPC rate-limiting service backed by Redis, deployable with Helm.
+| Project | What it is |
+|---|---|
+| [**FitJournal**](https://www.fitjournal.in) | AI fitness journal that answers "is my plan working?" Next.js, Postgres, OpenAI, Docker, Kubernetes. [Code](https://github.com/raviranjan6020/fitjournal) |
+| [**ai-skills**](https://github.com/raviranjan6020/ai-skills) | Rules, skills and hooks for coding agents (Claude Code, Codex, Kiro, Cursor) from one source. |
+| [**Rate Warden**](https://github.com/raviranjan6020/rate-limiter) | gRPC rate-limiting service backed by Redis, deployable with Helm. |
 
 ### Stack
 
 Go · Python · Kubernetes · KubeVirt · OpenShift · Helm · Argo CD · Tekton · Terraform · AWS · Prometheus · Grafana · NVIDIA GPU Operator · OpenBao
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/raviranjan6020) · [CKA](https://training.linuxfoundation.org/certification/verify/) (`LF-z7d251rgm4`) · [All merged contributions](https://github.com/search?q=author%3Araviranjan6020+is%3Apr+is%3Amerged+is%3Apublic+-user%3Araviranjan6020&type=pullrequests)
