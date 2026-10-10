@@ -19,10 +19,11 @@ FACTS = [
 
 STACK = [
     ("LANGUAGES", ["Go", "Python", "Bash"]),
-    ("KUBERNETES", ["Kubernetes", "KubeVirt", "OpenShift", "RKE2", "Rancher", "K3s", "Helm"]),
-    ("MULTI-CLUSTER & GITOPS", ["Open Cluster Management", "Argo CD", "Kubespray", "Terraform"]),
+    ("KUBERNETES", ["Kubernetes", "OpenShift / OKD", "KubeVirt", "K3s", "Helm"]),
+    ("MULTI-CLUSTER", ["Open Cluster Management", "Rancher", "RKE2"]),
+    ("DELIVERY & AUTOMATION", ["Argo CD", "Tekton", "GitHub Actions", "Terraform", "Ansible", "Kubespray"]),
     ("GPU", ["NVIDIA GPU Operator", "DRA", "KAI Scheduler", "GPU passthrough", "DCGM"]),
-    ("CLOUD & CI/CD", ["AWS", "GCP", "GitHub Actions", "Tekton"]),
+    ("CLOUD", ["AWS", "GCP"]),
     ("SECURITY & ACCESS", ["OpenBao", "KMS", "OIDC", "Teleport"]),
     ("OBSERVABILITY", ["Prometheus", "Grafana", "Loki", "VictoriaMetrics", "OpenTelemetry"]),
 ]

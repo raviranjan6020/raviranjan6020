@@ -25,7 +25,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
-  <img src="./assets/stack-light.svg" alt="Tech stack. Languages: Go, Python, Bash. Kubernetes: Kubernetes, KubeVirt, OpenShift, RKE2, Rancher, K3s, Helm. Multi-cluster and GitOps: Open Cluster Management, Argo CD, Kubespray, Terraform. GPU: NVIDIA GPU Operator, DRA, KAI Scheduler, GPU passthrough, DCGM. Cloud and CI/CD: AWS, GCP, GitHub Actions, Tekton. Security and access: OpenBao, KMS, OIDC, Teleport. Observability: Prometheus, Grafana, Loki, VictoriaMetrics, OpenTelemetry." width="100%" />
+  <img src="./assets/stack-light.svg" alt="Tech stack. Languages: Go, Python, Bash. Kubernetes: Kubernetes, OpenShift / OKD, KubeVirt, K3s, Helm. Multi-cluster: Open Cluster Management, Rancher, RKE2. Delivery and automation: Argo CD, Tekton, GitHub Actions, Terraform, Ansible, Kubespray. GPU: NVIDIA GPU Operator, DRA, KAI Scheduler, GPU passthrough, DCGM. Cloud: AWS, GCP. Security and access: OpenBao, KMS, OIDC, Teleport. Observability: Prometheus, Grafana, Loki, VictoriaMetrics, OpenTelemetry." width="100%" />
 </picture>
 
 <br>

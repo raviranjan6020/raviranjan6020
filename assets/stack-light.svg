@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="574" viewBox="0 0 1200 574" role="img" aria-label="Tech stack: Languages: Go, Python, Bash; Kubernetes: Kubernetes, KubeVirt, OpenShift, RKE2, Rancher, K3s, Helm; Multi-Cluster &amp; Gitops: Open Cluster Management, Argo CD, Kubespray, Terraform; Gpu: NVIDIA GPU Operator, DRA, KAI Scheduler, GPU passthrough, DCGM; Cloud &amp; Ci/Cd: AWS, GCP, GitHub Actions, Tekton; Security &amp; Access: OpenBao, KMS, OIDC, Teleport; Observability: Prometheus, Grafana, Loki, VictoriaMetrics, OpenTelemetry">
-<rect x="0.5" y="0.5" width="1199" height="573" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="638" viewBox="0 0 1200 638" role="img" aria-label="Tech stack: Languages: Go, Python, Bash; Kubernetes: Kubernetes, OpenShift / OKD, KubeVirt, K3s, Helm; Multi-Cluster: Open Cluster Management, Rancher, RKE2; Delivery &amp; Automation: Argo CD, Tekton, GitHub Actions, Terraform, Ansible, Kubespray; Gpu: NVIDIA GPU Operator, DRA, KAI Scheduler, GPU passthrough, DCGM; Cloud: AWS, GCP; Security &amp; Access: OpenBao, KMS, OIDC, Teleport; Observability: Prometheus, Grafana, Loki, VictoriaMetrics, OpenTelemetry">
+<rect x="0.5" y="0.5" width="1199" height="637" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
 <text x="56" y="50" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#0969da">FIG_001 / STACK</text>
 <line x1="56" y1="68" x2="1144" y2="68" stroke="#d0d7de"/>
 <text x="56" y="131" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">LANGUAGES</text>
@@ -13,70 +13,74 @@
 <text x="56" y="195" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">KUBERNETES</text>
 <rect x="331" y="168" width="138" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
 <text x="343" y="196" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Kubernetes</text>
-<rect x="479" y="168" width="115" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="491" y="196" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">KubeVirt</text>
-<rect x="604" y="168" width="127" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="616" y="196" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">OpenShift</text>
-<rect x="741" y="168" width="70" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="753" y="196" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">RKE2</text>
-<rect x="820" y="168" width="104" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="832" y="196" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Rancher</text>
-<rect x="934" y="168" width="58" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="946" y="196" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">K3s</text>
-<rect x="1002" y="168" width="70" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="1014" y="196" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Helm</text>
+<rect x="479" y="168" width="195" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="491" y="196" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">OpenShift / OKD</text>
+<rect x="684" y="168" width="115" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="696" y="196" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">KubeVirt</text>
+<rect x="809" y="168" width="58" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="821" y="196" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">K3s</text>
+<rect x="877" y="168" width="70" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="889" y="196" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Helm</text>
 <line x1="56" y1="221" x2="1144" y2="221" stroke="#d0d7de" stroke-dasharray="3 4"/>
-<text x="56" y="259" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">MULTI-CLUSTER &amp; GITOPS</text>
+<text x="56" y="259" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">MULTI-CLUSTER</text>
 <rect x="331" y="232" width="286" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
 <text x="343" y="260" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Open Cluster Management</text>
 <rect x="627" y="232" width="104" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="639" y="260" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Argo CD</text>
-<rect x="741" y="232" width="127" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="753" y="260" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Kubespray</text>
-<rect x="878" y="232" width="127" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="890" y="260" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Terraform</text>
+<text x="639" y="260" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Rancher</text>
+<rect x="741" y="232" width="70" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="753" y="260" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">RKE2</text>
 <line x1="56" y1="285" x2="1144" y2="285" stroke="#d0d7de" stroke-dasharray="3 4"/>
-<text x="56" y="323" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">GPU</text>
-<rect x="331" y="296" width="241" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="343" y="324" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">NVIDIA GPU Operator</text>
-<rect x="582" y="296" width="58" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="594" y="324" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">DRA</text>
-<rect x="650" y="296" width="172" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="662" y="324" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">KAI Scheduler</text>
-<rect x="832" y="296" width="195" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="844" y="324" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">GPU passthrough</text>
-<rect x="1037" y="296" width="70" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="1049" y="324" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">DCGM</text>
+<text x="56" y="323" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">DELIVERY &amp; AUTOMATION</text>
+<rect x="331" y="296" width="104" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="343" y="324" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Argo CD</text>
+<rect x="445" y="296" width="92" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="457" y="324" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Tekton</text>
+<rect x="547" y="296" width="184" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="559" y="324" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">GitHub Actions</text>
+<rect x="741" y="296" width="127" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="753" y="324" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Terraform</text>
+<rect x="877" y="296" width="104" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="889" y="324" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Ansible</text>
+<rect x="991" y="296" width="127" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="1003" y="324" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Kubespray</text>
 <line x1="56" y1="349" x2="1144" y2="349" stroke="#d0d7de" stroke-dasharray="3 4"/>
-<text x="56" y="387" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">CLOUD &amp; CI/CD</text>
-<rect x="331" y="360" width="58" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="343" y="388" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">AWS</text>
-<rect x="399" y="360" width="58" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="411" y="388" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">GCP</text>
-<rect x="467" y="360" width="184" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="479" y="388" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">GitHub Actions</text>
-<rect x="661" y="360" width="92" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="673" y="388" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Tekton</text>
+<text x="56" y="387" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">GPU</text>
+<rect x="331" y="360" width="241" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="343" y="388" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">NVIDIA GPU Operator</text>
+<rect x="582" y="360" width="58" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="594" y="388" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">DRA</text>
+<rect x="650" y="360" width="172" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="662" y="388" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">KAI Scheduler</text>
+<rect x="832" y="360" width="195" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="844" y="388" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">GPU passthrough</text>
+<rect x="1037" y="360" width="70" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="1049" y="388" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">DCGM</text>
 <line x1="56" y1="413" x2="1144" y2="413" stroke="#d0d7de" stroke-dasharray="3 4"/>
-<text x="56" y="451" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">SECURITY &amp; ACCESS</text>
-<rect x="331" y="424" width="104" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="343" y="452" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">OpenBao</text>
-<rect x="445" y="424" width="58" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="457" y="452" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">KMS</text>
-<rect x="513" y="424" width="70" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="525" y="452" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">OIDC</text>
-<rect x="593" y="424" width="115" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="605" y="452" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Teleport</text>
+<text x="56" y="451" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">CLOUD</text>
+<rect x="331" y="424" width="58" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="343" y="452" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">AWS</text>
+<rect x="399" y="424" width="58" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="411" y="452" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">GCP</text>
 <line x1="56" y1="477" x2="1144" y2="477" stroke="#d0d7de" stroke-dasharray="3 4"/>
-<text x="56" y="515" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">OBSERVABILITY</text>
-<rect x="331" y="488" width="138" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="343" y="516" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Prometheus</text>
-<rect x="479" y="488" width="104" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="491" y="516" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Grafana</text>
-<rect x="593" y="488" width="70" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="605" y="516" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Loki</text>
-<rect x="672" y="488" width="195" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="684" y="516" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">VictoriaMetrics</text>
-<rect x="877" y="488" width="172" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
-<text x="889" y="516" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">OpenTelemetry</text>
+<text x="56" y="515" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">SECURITY &amp; ACCESS</text>
+<rect x="331" y="488" width="104" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="343" y="516" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">OpenBao</text>
+<rect x="445" y="488" width="58" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="457" y="516" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">KMS</text>
+<rect x="513" y="488" width="70" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="525" y="516" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">OIDC</text>
+<rect x="593" y="488" width="115" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="605" y="516" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Teleport</text>
+<line x1="56" y1="541" x2="1144" y2="541" stroke="#d0d7de" stroke-dasharray="3 4"/>
+<text x="56" y="579" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#59636e">OBSERVABILITY</text>
+<rect x="331" y="552" width="138" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="343" y="580" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Prometheus</text>
+<rect x="479" y="552" width="104" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="491" y="580" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Grafana</text>
+<rect x="593" y="552" width="70" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="605" y="580" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">Loki</text>
+<rect x="672" y="552" width="195" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="684" y="580" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">VictoriaMetrics</text>
+<rect x="877" y="552" width="172" height="42" rx="4" fill="none" stroke="#0969da" stroke-opacity="0.55"/>
+<text x="889" y="580" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#0969da">OpenTelemetry</text>
 </svg>
