@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-  <img src="./assets/header-light.svg" alt="Ravi Ranjan. Cloud / Platform Engineer building Kubernetes platforms, cloud infrastructure and GPU systems. CKA, Kubernetes contributor, Open Cluster Management (CNCF)." width="100%" />
+  <img src="./assets/header-light.svg" alt="Ravi Ranjan. Software Engineer building Kubernetes platforms, cloud infrastructure and distributed systems. CKA, Kubernetes and Open Cluster Management (CNCF) contributor, ex-RIL, IIT Palakkad. Software Engineer at Nava." width="100%" />
 </picture>
 <br><br>
 <picture>
